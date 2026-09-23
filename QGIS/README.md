@@ -1,6 +1,6 @@
 # GIS Project Files
 
-This folder contains the QGIS project developed during the spatial analysis phase of the research.
+This folder contains the QGIS project (`/QGIS/LBA_Mycenaean_Balkan_20260814.qgz`) developed during the spatial analysis phase of the research.
 
 ## Notes
 
